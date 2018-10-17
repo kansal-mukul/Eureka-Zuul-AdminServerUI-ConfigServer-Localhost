@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: Spring-Boot-Admin
+server:
+  port: 1111
+  
+info:
+    app:
+      name: Admin-Server
+      description: This is my First Spring Boot Admin-Server Microservice.
+      version: 1.0 
+     
+
+     

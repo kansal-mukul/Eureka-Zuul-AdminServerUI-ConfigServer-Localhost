@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: Eureka-Date-Client
+  cloud:
+    config:
+      uri :  http://localhost:8888
+server:
+  port: 8082
+   
+info:
+    app:
+      name: Eureka-Date-Client
+      description: This is my Spring Boot Date Microservice.
+      version: 1.0
+   

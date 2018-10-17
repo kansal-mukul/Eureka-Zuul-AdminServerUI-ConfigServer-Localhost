@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: Eureka-Server
+server:
+  port: 8761
+info:
+    app:
+      name: Eureka-Server
+      description: This is my First Spring Boot Eureka Server Microservice.
+      version: 1.0 
+
+     
